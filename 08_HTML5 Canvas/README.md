@@ -4,4 +4,4 @@
 
 **Things to Learn:** Using Canvas , HSL, mouse events.
 
-[DEMO](https://voloshin-sergei.github.io/30DaysOfJavaScript/08_day%20HTML5%20Canvas/)
+[DEMO](https://voloshin-sergei.github.io/30DaysOfJavaScript/08_HTML5%20Canvas/)
